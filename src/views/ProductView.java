@@ -1,2 +1,5 @@
-package views;public class ProductView {
+package views;
+
+public class ProductView {
+
 }
